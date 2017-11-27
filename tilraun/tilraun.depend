@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511821635 source:c:\users\aeteikn\dropbox\_hr\2017-haust\verklegtnamskeid\git-firsttest\firsttest\tilraun\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
